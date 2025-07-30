@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/Java-11%2B-blue)
 ![JUnit](https://img.shields.io/badge/JUnit-4-red)
 
-# Java Unit Testing Project 🧪
+# Java Unit Testing Project 🧪 Age Verification Project
 
 Проект для тестирования функционала проверки возраста с использованием JUnit 4
 
