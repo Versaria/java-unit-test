@@ -89,7 +89,9 @@ Copyright (c) 2023 Versaria
 5. Откройте Pull Request
 
 ---
-🔧 Дополнительные команды
+<details>
+<summary>🔧 Дополнительные команды</summary>
+
 ```bash
 # Запуск конкретного тестового класса
 mvn test -Dtest=ProgramTest
@@ -97,3 +99,5 @@ mvn test -Dtest=ProgramTest
 # Сборка с отчетом о тестах
 mvn clean test surefire-report:report
 ```
+</details>
+
